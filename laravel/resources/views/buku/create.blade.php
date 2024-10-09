@@ -22,6 +22,7 @@
                                 name="kategori" id="kategori">
                             <option value="" selected>Pilih Kategori</option>
                             <option value="Novel">Novel</option>
+                            <option value="Novel">Komik</option>
                             <option value="Biografi">Biografi</option>
                         </select>
                         @error('kategori') <div class="invalid-feedback">{{ $message }}</div> @enderror

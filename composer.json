@@ -1,0 +1,6 @@
+{
+    "require": {
+        "yajra/laravel-datatables-oracle": "^11.0",
+        "realrashid/sweet-alert": "^7.2"
+    }
+}
